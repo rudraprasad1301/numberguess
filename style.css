@@ -1,0 +1,63 @@
+.header{
+    height: 40px;
+    text-align: center;
+    border-bottom:3px solid black;
+    padding: 8px;
+    margin: -8px;
+    font-size: 20px;
+    box-sizing: border-box;
+    ;
+}
+.container{
+    height: 300px;
+   width: 300px;
+   border: 2px solid black;
+   margin: 30px auto;
+   padding: 20px;
+   background: linear-gradient(135deg,rgb(64, 11, 207),rgba(255, 217, 0, 0.704),green);
+
+
+}
+.head{
+    font-size: 22px;
+   margin-left:90px;
+  margin-top:30px;
+  border: 2px solid black;
+
+
+}
+.input{
+    width:80%;
+    margin-left: 28px;
+    margin-top: 10px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.button{
+    margin-left: 30%;
+    margin-top: 20px;
+}
+.btn{
+    background-color: #6211b4;
+    margin-right: 10px;
+    height: 30px;
+    color:white;
+    width:60px;
+   border-radius: 14px;
+
+}
+.result{
+    width:200px;
+    margin-left: -40px;
+    margin-top: 30px;
+    border: 2px solid black;
+    height:35px;
+    background-color: white;
+    text-align: center;
+}
+.chance{
+    font-size: 20px;
+    color:white;
+
+}
